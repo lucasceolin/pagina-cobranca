@@ -3,7 +3,7 @@ Página de cobrança
 Protótipo: 
 [image] ()
 
-<h2> Projeto de implementação de uma tela de Configurações de Conta. </h2>
+<h2> Projeto de implementação de uma tela de Página de cobrança. </h2>
 
 <b> Finzalizado </b>
 
