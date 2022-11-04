@@ -1,4 +1,4 @@
-Página de cobrança
+<head> <h1> <b> Página de cobrança </b> </h1> </head>
 
 Protótipo: 
 [image] ()
