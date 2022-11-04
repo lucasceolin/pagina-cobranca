@@ -1,7 +1,8 @@
 <head> <h1> <b> Página de cobrança </b> </h1> </head>
 
 Protótipo: 
-<img src="pagina-./template-final.png">
+
+![image](template-final.png)
 
 <h2> Projeto de implementação de uma tela de Página de cobrança. </h2>
 
