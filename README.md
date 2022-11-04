@@ -2,7 +2,7 @@
 
 Protótipo: 
 
-![image][(https://github.com/lucasceolin/pagina-cobranca/blob/main/template-final.PNG)](https://uidesigndaily.com/posts/figma-billing-page-payment-day-1585)
+![image](https://uidesigndaily.com/posts/figma-billing-page-payment-day-1585)
 
 <h2> Projeto de implementação de uma tela de Página de cobrança. </h2>
 
