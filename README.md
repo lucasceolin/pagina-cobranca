@@ -2,7 +2,7 @@
 
 Protótipo: 
 
-![image](https://uidesigndaily.com/posts/figma-billing-page-payment-day-1585)
+![image](https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1585/day_1585.png)
 
 <h2> Projeto de implementação de uma tela de Página de cobrança. </h2>
 
